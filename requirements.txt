@@ -1,0 +1,7 @@
+Flask
+gunicorn
+firebase_admin
+flask-cors 
+scikit-learn 
+pandas 
+simplejson
