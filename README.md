@@ -22,4 +22,4 @@ Run the server locally
 ```python
 python app.py
 ```
-The server will start on port 0.0.0.0
+The server will start on 0.0.0.0
